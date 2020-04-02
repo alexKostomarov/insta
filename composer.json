@@ -1,0 +1,17 @@
+{
+    "name": "alex/insta",
+    "type": "project",
+    "require": {        
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "alex@w-online.ru"
+        }
+    ]
+}

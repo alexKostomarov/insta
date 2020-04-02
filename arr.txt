@@ -1,0 +1,475 @@
+Array
+(
+    [0] => Array
+        (
+            [ValCurs] => Array
+                (
+                    [0] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 43,5373
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 03.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 43,5937
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 04.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 43,6580
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 05.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 43,8478
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 06.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 44,8181
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 07.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [5] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 47,2817
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 11.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [6] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 46,5926
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 12.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [7] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 47,7773
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 13.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [8] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 46,0647
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 14.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [9] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 45,8026
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 17.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [10] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 44,9397
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 18.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [11] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 45,8260
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 19.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [12] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 45,9460
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 20.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [13] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 46,2491
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 21.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [14] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 46,7091
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 24.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [15] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 46,8680
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 25.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [16] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 47,1035
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 26.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [17] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 46,8398
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 27.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                    [18] => Array
+                        (
+                            [Record] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [Nominal] => 1
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [Value] => 47,1448
+                                        )
+
+                                )
+
+                            [attributes] => Array
+                                (
+                                    [Date] => 28.03.2020
+                                    [Id] => R01010
+                                )
+
+                        )
+
+                )
+
+            [attributes] => Array
+                (
+                    [ID] => R01010
+                    [DateRange1] => 01.03.2020
+                    [DateRange2] => 30.03.2020
+                    [name] => Foreign Currency Market Dynamic
+                )
+
+        )
+
+)
